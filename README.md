@@ -1,4 +1,6 @@
 # chat-gpt-discord  
+A personal ChatGPT in your Discord channel.
+
 ## The basic idea:
 
 Using the Discord.js API to catch user input and sending it to the gpt-3.5-turbo API for a ChatGPT response.  
